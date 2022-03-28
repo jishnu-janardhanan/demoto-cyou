@@ -792,7 +792,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(255, 255, 255, 0.8);
 }
 .cid-sYU2cKmrn0 .navbar.opened {
   transition: all 0.3s;
@@ -1047,7 +1047,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-t0PV3nEwCN {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-t0PV3nEwCN .row {
     justify-content: flex-start;
