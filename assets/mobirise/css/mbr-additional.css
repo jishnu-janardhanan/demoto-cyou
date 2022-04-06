@@ -1133,6 +1133,35 @@ a {
 .cid-sYU2lsYH4y .item-subtitle {
   text-align: left;
 }
+.cid-t2ftLoXX7b {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-t2ftLoXX7b .mbr-text {
+  color: #767676;
+}
+.cid-t2ftLoXX7b .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-t2ftLoXX7b .title .num {
+  width: 100%;
+  display: block;
+}
+.cid-t2ftLoXX7b .title .card-title {
+  z-index: 1;
+}
+.cid-t2ftLoXX7b .num {
+  color: #6592e6;
+}
+@media (max-width: 767px) {
+  .cid-t2ftLoXX7b * {
+    text-align: center !important;
+  }
+  .cid-t2ftLoXX7b .content-column {
+    margin-bottom: 2rem;
+  }
+}
 .cid-t1MgT5lPRF {
   padding-top: 6rem;
   padding-bottom: 6rem;
